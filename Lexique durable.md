@@ -4,7 +4,7 @@ Liste largement incomplète à ce stade, il faudra qq années à moi tout seul, 
 * EnR
   * énergies renouvelables: https://fr.wikipedia.org/wiki/%C3%89nergie_renouvelable
 * TRE
-  * Taux de retouir énergétique: https://fr.wikipedia.org/wiki/Taux_de_retour_%C3%A9nerg%C3%A9tique
+  * Taux de retour énergétique: https://fr.wikipedia.org/wiki/Taux_de_retour_%C3%A9nerg%C3%A9tique
   
 # Concepts
 (Les articles sont supprimés pour ordrer sur les premières lettres du 1er mot)
