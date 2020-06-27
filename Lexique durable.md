@@ -1,4 +1,4 @@
-Liste largement incomplète à ce stade, il faudra qq année sà moi tout seul, mais si vous avez des données, ou des URL à suggérer, merci de me les partager http://pascal.kotte.net ou mieux, de venir contribuer ici même.
+Liste largement incomplète à ce stade, il faudra qq années à moi tout seul, mais si vous avez des données, ou des URL à suggérer, merci de me les partager http://pascal.kotte.net ou mieux, de venir contribuer ici même.
 
 # Abréviations
 * EnR
